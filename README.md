@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=LeCodeCo&show_icons=true">
 
 ### Hi there 👋
-I'm Rihan, a student in Cambridge who founded [@DashfloNet](https://github.com/DashfloNet). 🖥
+I'm Rihan, a student in Cambridge who founded [@Dashflo](https://github.com/Dashflo). 🖥
 
 If I'm not coding, I'm probably playing TF2. 🎮
 
